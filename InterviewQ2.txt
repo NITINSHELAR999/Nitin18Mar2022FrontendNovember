@@ -1,0 +1,5 @@
+Q2)How can you check if the event.preventDefault() method was used in an element?
+
+Ans-
+
+When we use the event.defaultPrevent() method in the event object returns a Boolean indicating that the event.preventDefault() was called in a particular element.

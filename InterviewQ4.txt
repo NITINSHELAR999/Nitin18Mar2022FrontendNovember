@@ -1,0 +1,7 @@
+Q4)What is this [[[]]]?
+
+Ans-
+
+This is a three-dimensional array.
+
+var myArray = [[[]]];  

@@ -1,0 +1,6 @@
+Q5)Are Java and JavaScript same?
+
+Ans-
+
+No, Java and JavaScript are the two different languages. Java is a robust, secured and object-oriented programming language whereas JavaScript is a client-side scripting language with some limitations.
+

@@ -1,0 +1,9 @@
+Q3)How to set the cursor to wait in JavaScript?
+
+Ans-
+
+The cursor can be set to wait in JavaScript by using the property "cursor". The following example illustrates the usage:
+
+<script>  
+window.document.body.style.cursor = "wait";   
+</script>  
